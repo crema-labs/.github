@@ -7,7 +7,7 @@ Crema is a blockchain R&D studio. We focus on zk, DeFi, and Bitcoin SPV bridges.
 | Project                      | Description                                         | Progress           |
 |------------------------------|-----------------------------------------------------|--------------------|
 | [Generic AES Implementation](https://github.com/crema-labs/aes-circom)   | Implementing AES-128, AES-192, and AES-256 in Circom|  ✅                |
-| AES Modes   | Implementing AES-CTR in Circom|  Work in progress 🛠️                |
+| [AES Modes](https://github.com/crema-labs/aes-circom/blob/main/circuits/ctr.circom)   | Implementing AES-CTR in Circom|  ✅                |
 | [HMAC Implementation](https://github.com/crema-labs/hmac-circom)   | Implementing HMAC-Sha256 in Circom|  ✅                 |
 | ECIES Implementation         | Implementing ECIES in Circom                        | Work in progress 🛠️|
 
