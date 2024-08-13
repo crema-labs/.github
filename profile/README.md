@@ -11,4 +11,4 @@ Crema is a blockchain R&D studio. We focus on zk, DeFi, and Bitcoin SPV bridges.
 | [HMAC Implementation](https://github.com/crema-labs/hmac-circom)   | Implementing HMAC-Sha256 in Circom|  ✅                 |
 | ECIES Implementation         | Implementing ECIES in Circom                        | Work in progress 🛠️|
 
-Visit our website at [crema.sh](https://crema.sh)
+Visit our website at [crema.sh](https://crema.sh) and Reach out to via [telegram](https://t.me/+rhnt3ZUfMuAwYWNl)
