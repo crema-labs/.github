@@ -14,6 +14,6 @@ Crema is a blockchain R&D studio. We focus on zk, DeFi, and Bitcoin SPV bridges.
 | ECIES Implementation         | Implementing ECIES in Circom                        | Work in progress 🛠️|
 
 
-Visit our website at [crema.sh](https://crema.sh) and Reach out to us via [telegram](https://t.me/cremalabs)
+Checkout our [blog](https://blog.crema.sh) and Reach out to via [telegram](https://t.me/cremalabs)
 
 
