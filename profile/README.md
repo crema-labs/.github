@@ -1,6 +1,6 @@
 # Crema Labs
 
-Crema is a blockchain R&D studio. We focus on zk, DeFi, and Bitcoin SPV bridges. We hack on weekends and are currently focused on programmable cryptography and zk
+Crema is a blockchain R&D studio. We focus on web proofs, zk, DeFi, and Bitcoin SPV bridges. We hack on weekends and are currently focused on programmable cryptography and zk
 
 ## Current Projects
 
